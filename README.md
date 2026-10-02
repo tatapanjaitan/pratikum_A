@@ -1,1 +1,4 @@
 # pratikum_A
+ PRATIKUM PENGANTAR ILMU KOMPUTER
+
+ edited
